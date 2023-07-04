@@ -1,16 +1,25 @@
-### Hi there 👋
+### HI!
 
-<!--
-**deanrih/deanrih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, welcome to my GitHub profile, for those from deanrih.id I do apologize for the lack of a proper website, so instead of leaving it blank with unassuming text, I am redirecting the website here instead.
 
-Here are some ideas to get you started:
+I'm a software developer, currently working at @ordent as a back-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My technical experience or skills:
+#### Framework/Library
+- Unity
+- Godot
+- Babylonjs
+- Nodejs
+- Laravel
+- Nestjs
+
+#### Programming Languages
+- C# (Plain dotnet and Unity C#)
+- C++
+- GDScript
+- Rust
+- PHP
+- Java
+- TypeScript
+- Python
+- Go
