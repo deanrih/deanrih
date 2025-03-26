@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>deanrih</title><description>Personal Website</description><link>https://deanrih.id/</link><language>en</language><item><title>Initial commit; Hello world!</title><link>https://deanrih.id/blog/initial-commit/</link><guid isPermaLink="true">https://deanrih.id/blog/initial-commit/</guid><description>My initial blog post.</description><pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;./greetings&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;$ git add .
+$ git commit --message &quot;Initial commit; Hello world!&quot;
+$ git push --force origin/main
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you -- who is not me -- stumbled upon this site or this particular post, welcome! And... I&apos;m sorry.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why am I apologizing?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Well, as you can see, or... lack thereof, nothing is interesting here... so I&apos;m sorry that you spent some time, bandwidth, or even precious data just to visit this instead of something more interesting.&lt;/p&gt;
+&lt;p&gt;Anyway, welcome to my very first blog post -- a first commit, if you will -- in which I will talk about why. Why did I create this website? Why bother making it in the first place? Why would I spend some restless weekends just for this?&lt;/p&gt;
+&lt;p&gt;My reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#knowledge-base-backup&quot;&gt;A &quot;cloud backup&quot; of my knowledge base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#piece-of-internet-ownership&quot;&gt;To have a piece of ownership in this world of the internet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#showcase&quot;&gt;To showcase... something&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#digital-presence&quot;&gt;A digital presence, like everyone else&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#utilising-domain-name&quot;&gt;Finally, I am putting my domain name that I bought years ago to good use&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;BUT! Before I continue to the content of the topic, you might be wondering what&apos;s with the &lt;code&gt;~&lt;/code&gt; and &lt;code&gt;./&lt;/code&gt; patterns in my navbar and/or in this blog post, or maybe not... anyway, the reason is, I like how Unix/Posix file paths look like, so I&apos;m using it as a sort of a bearing of direction in my blog, as well as to differentiate between regular text content and some &quot;landmark&quot; so to speak.&lt;/p&gt;
+&lt;p&gt;That&apos;s it, now let&apos;s back to the topic.&lt;/p&gt;
+&lt;h1&gt;./knowledge-base-backup&lt;/h1&gt;
+&lt;p&gt;I often find something interesting and do something interesting (&lt;em&gt;at least interesting to myself&lt;/em&gt;), and sometimes I have to deal with something less interesting as well such as fixing my GNU/Linux installation (I use Arch btw), which is fine and all, but the problem is, once I do it or solve something, I usually don&apos;t get faced with the same interesting situation or problem for a quite lengthy time, to which when I ultimately faced with one, I have to remember how I deal with it, or if I&apos;m lucky, I probably have the steps or files still around in my storage, but if I&apos;m not lucky, I have to remember what I need and search through the interwebs, which either still exists, I can&apos;t find it, or the web has been nuked from the face of the internet forever.&lt;/p&gt;
+&lt;p&gt;So I hope that in addition to my local copies of step-by-steps, tutorials, config files, etc. I also have a backup that reside in the internet for quicker access since I don&apos;t have to rummaging through the whole disk to find it.&lt;/p&gt;
+&lt;h1&gt;./piece-of-internet-ownership&lt;/h1&gt;
+&lt;p&gt;The Internet is supposed to be for everyone, and anyone can have a piece of it -- at least, that&apos;s what I think. Of course, yes, I know it&apos;s not that simple... and to be fair, nothing ever is.&lt;/p&gt;
+&lt;p&gt;Still, at least by making this personal website, I get to &quot;own&quot; a part of the internet -- this blog, with my domain as the address. And I can do anything I want with it (&lt;em&gt;within reason, law, and regulations... I guess&lt;/em&gt;).&lt;/p&gt;
+&lt;h1&gt;./showcase&lt;/h1&gt;
+&lt;p&gt;With my work in backend and game development, I may or may not have planned to showcase something to the internet, or at least share it with people I know. Having my own personal website will at least help as my target &quot;platform&quot;.&lt;/p&gt;
+&lt;h1&gt;./digital-presence&lt;/h1&gt;
+&lt;p&gt;Among my developer acquaintances, some of them have their own blogs, which makes me feel left behind. So with this, I&apos;m finally catching up... I guess. At least now, I can &quot;brag&quot; that I have my very own website!&lt;/p&gt;
+&lt;h1&gt;./utilising-domain-name&lt;/h1&gt;
+&lt;p&gt;You see, I&apos;ve had this domain for quite some time, but for the longest time, I just used it with &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt; to redirect to my &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; profile. Basically, it was just a crappy URL shortener... but not anymore!&lt;/p&gt;
+&lt;h1&gt;./closing&lt;/h1&gt;
+&lt;p&gt;That&apos;s all I can say for this post. The next one is probably going to be about how I wasted my weekend modifying this particular &lt;a href=&quot;https://astro.build&quot;&gt;Astro&lt;/a&gt; template to suit my needs (&lt;em&gt;well, not yet, but I&apos;m working on it&lt;/em&gt;), so until then, take care and have an amazing day!&lt;/p&gt;
+</content:encoded></item></channel></rss>
