@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deanrih.id/sitemap-index.xml
+Sitemap: http://deanrih.id/sitemap-index.xml
